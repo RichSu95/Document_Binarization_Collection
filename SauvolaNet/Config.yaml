@@ -1,0 +1,28 @@
+Global:
+  use_gpu: True
+  model_name: Sauvalo_Finetune
+  pretrained_model: pretrained_models/Sauvalo_Finetune_E48-Acc0.9919-Tacc0.9280-F0.9297-PSNRinf.h5
+  
+Train:
+  optimizer: adam
+  loss: hinge
+  epochs: 150
+  batch_size: 1
+  dataset: Dataset
+  Callbacks:
+    patience: 15
+    callbacks: ['ModelCheckpoint','TensorBoard','EarlyStopping','ReduceLROnPlateau'] #Simply add WandbCallback for wandb API visualizations
+
+Architecture:
+  SauvolaMultiWindow:
+    window_size_list: [3,5,7,11,15,19]
+    norm_type: 'inorm'
+    activation: 'relu'
+    base_filters: 6
+    init_k: 0.2
+    init_R: 0.4
+    train_k: True
+    train_R: True
+  DifferenceThresh:
+    init_alpha: 16
+    train_alpha: True

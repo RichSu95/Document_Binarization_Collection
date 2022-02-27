@@ -1,0 +1,1938 @@
+********
+epoch: 1     time: 138
+train_loss: tensor(0.3258, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 2     time: 200
+train_loss: tensor(0.1567, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 3     time: 263
+train_loss: tensor(0.0727, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 4     time: 331
+train_loss: tensor(0.0452, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 5     time: 397
+train_loss: tensor(0.0415, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 6     time: 461
+train_loss: tensor(0.0393, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 7     time: 529
+train_loss: tensor(0.0374, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 8     time: 596
+train_loss: tensor(0.0362, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 9     time: 660
+train_loss: tensor(0.0350, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 10     time: 725
+train_loss: tensor(0.0339, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 11     time: 789
+train_loss: tensor(0.0337, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 12     time: 854
+train_loss: tensor(0.0331, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 13     time: 919
+train_loss: tensor(0.0321, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 14     time: 985
+train_loss: tensor(0.0332, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 15     time: 1050
+train_loss: tensor(0.0330, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 16     time: 1113
+train_loss: tensor(0.0310, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 17     time: 1178
+train_loss: tensor(0.0339, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 18     time: 1244
+train_loss: tensor(0.0311, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 19     time: 1308
+train_loss: tensor(0.0300, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 20     time: 1372
+train_loss: tensor(0.0297, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 21     time: 1436
+train_loss: tensor(0.0312, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 22     time: 1500
+train_loss: tensor(0.0295, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 23     time: 1564
+train_loss: tensor(0.0296, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 24     time: 1627
+train_loss: tensor(0.0301, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 25     time: 1690
+train_loss: tensor(0.0292, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 26     time: 1760
+train_loss: tensor(0.0298, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 27     time: 1824
+train_loss: tensor(0.0297, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 28     time: 1887
+train_loss: tensor(0.0286, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 29     time: 1952
+train_loss: tensor(0.0278, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 30     time: 2016
+train_loss: tensor(0.0277, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 31     time: 2081
+train_loss: tensor(0.0274, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 32     time: 2145
+train_loss: tensor(0.0284, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 33     time: 2209
+train_loss: tensor(0.0279, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 34     time: 2272
+train_loss: tensor(0.0278, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 35     time: 2336
+train_loss: tensor(0.0271, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 36     time: 2404
+train_loss: tensor(0.0271, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 37     time: 2468
+train_loss: tensor(0.0268, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 38     time: 2534
+train_loss: tensor(0.0288, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 39     time: 2599
+train_loss: tensor(0.0270, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 40     time: 2663
+train_loss: tensor(0.0271, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 41     time: 2726
+train_loss: tensor(0.0267, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 42     time: 2790
+train_loss: tensor(0.0271, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 43     time: 2854
+train_loss: tensor(0.0264, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 44     time: 2918
+train_loss: tensor(0.0261, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 45     time: 2982
+train_loss: tensor(0.0273, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 46     time: 3045
+train_loss: tensor(0.0265, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 47     time: 3108
+train_loss: tensor(0.0260, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 48     time: 3176
+train_loss: tensor(0.0258, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 49     time: 3240
+train_loss: tensor(0.0259, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 50     time: 3303
+train_loss: tensor(0.0260, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 51     time: 3368
+train_loss: tensor(0.0254, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 52     time: 3443
+train_loss: tensor(0.0256, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 53     time: 3512
+train_loss: tensor(0.0254, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 54     time: 3576
+train_loss: tensor(0.0250, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 55     time: 3640
+train_loss: tensor(0.0249, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 56     time: 3706
+train_loss: tensor(0.0251, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 57     time: 3769
+train_loss: tensor(0.0249, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 58     time: 3833
+train_loss: tensor(0.0247, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 59     time: 3897
+train_loss: tensor(0.0249, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 60     time: 3962
+train_loss: tensor(0.0247, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 61     time: 4028
+train_loss: tensor(0.0247, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 62     time: 4094
+train_loss: tensor(0.0268, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 63     time: 4160
+train_loss: tensor(0.0248, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 64     time: 4226
+train_loss: tensor(0.0245, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 65     time: 4290
+train_loss: tensor(0.0257, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 66     time: 4353
+train_loss: tensor(0.0250, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 67     time: 4421
+train_loss: tensor(0.0244, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 68     time: 4485
+train_loss: tensor(0.0265, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 69     time: 4548
+train_loss: tensor(0.0245, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 70     time: 4611
+train_loss: tensor(0.0241, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 71     time: 4675
+train_loss: tensor(0.0240, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 72     time: 4739
+train_loss: tensor(0.0239, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 73     time: 4803
+train_loss: tensor(0.0240, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 74     time: 4868
+train_loss: tensor(0.0237, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 75     time: 4936
+train_loss: tensor(0.0238, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 76     time: 5000
+train_loss: tensor(0.0236, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 77     time: 5064
+train_loss: tensor(0.0235, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 78     time: 5131
+train_loss: tensor(0.0237, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 79     time: 5194
+train_loss: tensor(0.0235, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 80     time: 5259
+train_loss: tensor(0.0234, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 81     time: 5325
+train_loss: tensor(0.0233, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 82     time: 5389
+train_loss: tensor(0.0235, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 83     time: 5452
+train_loss: tensor(0.0233, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 84     time: 5515
+train_loss: tensor(0.0241, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 85     time: 5578
+train_loss: tensor(0.0243, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 86     time: 5642
+train_loss: tensor(0.0240, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 87     time: 5705
+train_loss: tensor(0.0237, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 88     time: 5768
+train_loss: tensor(0.0233, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 89     time: 5833
+train_loss: tensor(0.0229, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 90     time: 5898
+train_loss: tensor(0.0229, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 91     time: 5963
+train_loss: tensor(0.0230, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 92     time: 6026
+train_loss: tensor(0.0227, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 93     time: 6093
+train_loss: tensor(0.0226, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 94     time: 6157
+train_loss: tensor(0.0228, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 95     time: 6220
+train_loss: tensor(0.0231, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 96     time: 6283
+train_loss: tensor(0.0249, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 97     time: 6348
+train_loss: tensor(0.0229, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 98     time: 6411
+train_loss: tensor(0.0228, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 99     time: 6474
+train_loss: tensor(0.0232, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 100     time: 6540
+train_loss: tensor(0.0227, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 101     time: 6607
+train_loss: tensor(0.0227, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 102     time: 6669
+train_loss: tensor(0.0225, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 103     time: 6735
+train_loss: tensor(0.0226, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 104     time: 6801
+train_loss: tensor(0.0223, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 105     time: 6867
+train_loss: tensor(0.0225, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 106     time: 6932
+train_loss: tensor(0.0237, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 107     time: 6995
+train_loss: tensor(0.0223, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 108     time: 7059
+train_loss: tensor(0.0222, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 109     time: 7123
+train_loss: tensor(0.0222, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 110     time: 7188
+train_loss: tensor(0.0221, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 111     time: 7255
+train_loss: tensor(0.0221, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 112     time: 7320
+train_loss: tensor(0.0220, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 113     time: 7385
+train_loss: tensor(0.0220, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 114     time: 7451
+train_loss: tensor(0.0219, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 115     time: 7518
+train_loss: tensor(0.0220, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 116     time: 7582
+train_loss: tensor(0.0219, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 117     time: 7646
+train_loss: tensor(0.0218, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 118     time: 7710
+train_loss: tensor(0.0218, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 119     time: 7774
+train_loss: tensor(0.0219, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 120     time: 7837
+train_loss: tensor(0.0221, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 121     time: 7901
+train_loss: tensor(0.0218, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 122     time: 7970
+train_loss: tensor(0.0217, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 123     time: 8034
+train_loss: tensor(0.0216, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 124     time: 8099
+train_loss: tensor(0.0218, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 125     time: 8164
+train_loss: tensor(0.0217, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 126     time: 8230
+train_loss: tensor(0.0218, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 127     time: 8293
+train_loss: tensor(0.0217, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 128     time: 8356
+train_loss: tensor(0.0215, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 129     time: 8420
+train_loss: tensor(0.0215, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 130     time: 8484
+train_loss: tensor(0.0213, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 131     time: 8548
+train_loss: tensor(0.0214, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 132     time: 8618
+train_loss: tensor(0.0213, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 133     time: 8686
+train_loss: tensor(0.0213, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 134     time: 8750
+train_loss: tensor(0.0211, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 135     time: 8815
+train_loss: tensor(0.0213, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 136     time: 8878
+train_loss: tensor(0.0214, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 137     time: 8941
+train_loss: tensor(0.0213, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 138     time: 9004
+train_loss: tensor(0.0211, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 139     time: 9068
+train_loss: tensor(0.0214, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 140     time: 9132
+train_loss: tensor(0.0212, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 141     time: 9195
+train_loss: tensor(0.0211, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 142     time: 9259
+train_loss: tensor(0.0210, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 143     time: 9326
+train_loss: tensor(0.0214, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 144     time: 9390
+train_loss: tensor(0.0212, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 145     time: 9454
+train_loss: tensor(0.0209, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 146     time: 9520
+train_loss: tensor(0.0210, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 147     time: 9584
+train_loss: tensor(0.0210, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 148     time: 9647
+train_loss: tensor(0.0308, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 149     time: 9710
+train_loss: tensor(0.0229, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 150     time: 9773
+train_loss: tensor(0.0220, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 151     time: 9836
+train_loss: tensor(0.0217, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 152     time: 9899
+train_loss: tensor(0.0215, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 153     time: 9962
+train_loss: tensor(0.0212, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 154     time: 10026
+train_loss: tensor(0.0211, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 155     time: 10089
+train_loss: tensor(0.0210, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 156     time: 10153
+train_loss: tensor(0.0209, device='cuda:0')
+SHAPE: (256, 256)
+update learning rate: 0.000200 -> 0.000040
+********
+epoch: 157     time: 10216
+train_loss: tensor(0.0206, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 158     time: 10280
+train_loss: tensor(0.0205, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 159     time: 10346
+train_loss: tensor(0.0205, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 160     time: 10411
+train_loss: tensor(0.0204, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 161     time: 10475
+train_loss: tensor(0.0204, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 162     time: 10540
+train_loss: tensor(0.0204, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 163     time: 10606
+train_loss: tensor(0.0204, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 164     time: 10669
+train_loss: tensor(0.0204, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 165     time: 10733
+train_loss: tensor(0.0204, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 166     time: 10799
+train_loss: tensor(0.0203, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 167     time: 10864
+train_loss: tensor(0.0204, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 168     time: 10927
+train_loss: tensor(0.0203, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 169     time: 10991
+train_loss: tensor(0.0203, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 170     time: 11056
+train_loss: tensor(0.0203, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 171     time: 11121
+train_loss: tensor(0.0203, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 172     time: 11185
+train_loss: tensor(0.0203, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 173     time: 11249
+train_loss: tensor(0.0203, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 174     time: 11313
+train_loss: tensor(0.0202, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 175     time: 11378
+train_loss: tensor(0.0203, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 176     time: 11447
+train_loss: tensor(0.0202, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 177     time: 11512
+train_loss: tensor(0.0202, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 178     time: 11574
+train_loss: tensor(0.0202, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 179     time: 11640
+train_loss: tensor(0.0202, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 180     time: 11703
+train_loss: tensor(0.0202, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 181     time: 11766
+train_loss: tensor(0.0202, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 182     time: 11830
+train_loss: tensor(0.0201, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 183     time: 11895
+train_loss: tensor(0.0204, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 184     time: 11960
+train_loss: tensor(0.0202, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 185     time: 12023
+train_loss: tensor(0.0201, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 186     time: 12087
+train_loss: tensor(0.0202, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 187     time: 12152
+train_loss: tensor(0.0202, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 188     time: 12216
+train_loss: tensor(0.0201, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 189     time: 12281
+train_loss: tensor(0.0201, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 190     time: 12346
+train_loss: tensor(0.0201, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 191     time: 12408
+train_loss: tensor(0.0201, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 192     time: 12473
+train_loss: tensor(0.0200, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 193     time: 12539
+train_loss: tensor(0.0200, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 194     time: 12603
+train_loss: tensor(0.0200, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 195     time: 12667
+train_loss: tensor(0.0200, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 196     time: 12731
+train_loss: tensor(0.0200, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 197     time: 12795
+train_loss: tensor(0.0200, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 198     time: 12903
+train_loss: tensor(0.0200, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 199     time: 12969
+train_loss: tensor(0.0200, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 200     time: 13034
+train_loss: tensor(0.0200, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 201     time: 13097
+train_loss: tensor(0.0200, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 202     time: 13161
+train_loss: tensor(0.0200, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 203     time: 13224
+train_loss: tensor(0.0199, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 204     time: 13291
+train_loss: tensor(0.0199, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 205     time: 13357
+train_loss: tensor(0.0199, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 206     time: 13425
+train_loss: tensor(0.0200, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 207     time: 13488
+train_loss: tensor(0.0199, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 208     time: 13551
+train_loss: tensor(0.0200, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 209     time: 13615
+train_loss: tensor(0.0199, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 210     time: 13677
+train_loss: tensor(0.0199, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 211     time: 13742
+train_loss: tensor(0.0198, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 212     time: 13809
+train_loss: tensor(0.0198, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 213     time: 13872
+train_loss: tensor(0.0199, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 214     time: 13935
+train_loss: tensor(0.0198, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 215     time: 13998
+train_loss: tensor(0.0199, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 216     time: 14064
+train_loss: tensor(0.0197, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 217     time: 14130
+train_loss: tensor(0.0197, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 218     time: 14194
+train_loss: tensor(0.0198, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 219     time: 14257
+train_loss: tensor(0.0198, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 220     time: 14320
+train_loss: tensor(0.0197, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 221     time: 14383
+train_loss: tensor(0.0198, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 222     time: 14446
+train_loss: tensor(0.0198, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 223     time: 14510
+train_loss: tensor(0.0198, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 224     time: 14580
+train_loss: tensor(0.0197, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 225     time: 14658
+train_loss: tensor(0.0197, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 226     time: 14725
+train_loss: tensor(0.0198, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 227     time: 14820
+train_loss: tensor(0.0197, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 228     time: 14882
+train_loss: tensor(0.0197, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 229     time: 14944
+train_loss: tensor(0.0197, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 230     time: 15007
+train_loss: tensor(0.0196, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 231     time: 15071
+train_loss: tensor(0.0197, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 232     time: 15137
+train_loss: tensor(0.0196, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 233     time: 15201
+train_loss: tensor(0.0196, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 234     time: 15266
+train_loss: tensor(0.0196, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 235     time: 15332
+train_loss: tensor(0.0196, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 236     time: 15398
+train_loss: tensor(0.0196, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 237     time: 15460
+train_loss: tensor(0.0196, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 238     time: 15523
+train_loss: tensor(0.0196, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 239     time: 15588
+train_loss: tensor(0.0196, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 240     time: 15651
+train_loss: tensor(0.0196, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 241     time: 15714
+train_loss: tensor(0.0196, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 242     time: 15778
+train_loss: tensor(0.0196, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 243     time: 15843
+train_loss: tensor(0.0195, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 244     time: 15910
+train_loss: tensor(0.0196, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 245     time: 15973
+train_loss: tensor(0.0196, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 246     time: 16036
+train_loss: tensor(0.0195, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 247     time: 16104
+train_loss: tensor(0.0196, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 248     time: 16169
+train_loss: tensor(0.0196, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 249     time: 16232
+train_loss: tensor(0.0195, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 250     time: 16296
+train_loss: tensor(0.0195, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 251     time: 16377
+train_loss: tensor(0.0195, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 252     time: 16448
+train_loss: tensor(0.0194, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 253     time: 16551
+train_loss: tensor(0.0195, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 254     time: 16649
+train_loss: tensor(0.0195, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 255     time: 16711
+train_loss: tensor(0.0195, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 256     time: 16775
+train_loss: tensor(0.0195, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 257     time: 16837
+train_loss: tensor(0.0194, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 258     time: 16901
+train_loss: tensor(0.0195, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 259     time: 16965
+train_loss: tensor(0.0194, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 260     time: 17029
+train_loss: tensor(0.0194, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 261     time: 17093
+train_loss: tensor(0.0194, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 262     time: 17157
+train_loss: tensor(0.0194, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 263     time: 17226
+train_loss: tensor(0.0194, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 264     time: 17289
+train_loss: tensor(0.0194, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 265     time: 17356
+train_loss: tensor(0.0194, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 266     time: 17422
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 267     time: 17490
+train_loss: tensor(0.0194, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 268     time: 17553
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 269     time: 17619
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 270     time: 17681
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 271     time: 17743
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 272     time: 17806
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 273     time: 17869
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 274     time: 17932
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 275     time: 17996
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 276     time: 18060
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 277     time: 18123
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 278     time: 18197
+train_loss: tensor(0.0194, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 279     time: 18291
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 280     time: 18420
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 281     time: 18485
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 282     time: 18554
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 283     time: 18618
+train_loss: tensor(0.0192, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 284     time: 18683
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 285     time: 18745
+train_loss: tensor(0.0192, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 286     time: 18809
+train_loss: tensor(0.0192, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 287     time: 18874
+train_loss: tensor(0.0192, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 288     time: 18937
+train_loss: tensor(0.0194, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 289     time: 19001
+train_loss: tensor(0.0194, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 290     time: 19069
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 291     time: 19138
+train_loss: tensor(0.0192, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 292     time: 19202
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 293     time: 19267
+train_loss: tensor(0.0192, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 294     time: 19331
+train_loss: tensor(0.0192, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 295     time: 19393
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 296     time: 19457
+train_loss: tensor(0.0192, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 297     time: 19521
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 298     time: 19584
+train_loss: tensor(0.0192, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 299     time: 19648
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 300     time: 19713
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 301     time: 19777
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 302     time: 19844
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 303     time: 19910
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 304     time: 20005
+train_loss: tensor(0.0193, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 305     time: 20085
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 306     time: 20185
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 307     time: 20260
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 308     time: 20326
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 309     time: 20391
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 310     time: 20453
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 311     time: 20519
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 312     time: 20584
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 313     time: 20647
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 314     time: 20710
+train_loss: tensor(0.0190, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 315     time: 20773
+train_loss: tensor(0.0190, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 316     time: 20838
+train_loss: tensor(0.0190, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 317     time: 20903
+train_loss: tensor(0.0191, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 318     time: 20967
+train_loss: tensor(0.0190, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 319     time: 21032
+train_loss: tensor(0.0190, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 320     time: 21099
+train_loss: tensor(0.0190, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 321     time: 21161
+train_loss: tensor(0.0190, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 322     time: 21228
+train_loss: tensor(0.0189, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 323     time: 21297
+train_loss: tensor(0.0190, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 324     time: 21365
+train_loss: tensor(0.0190, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 325     time: 21430
+train_loss: tensor(0.0190, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 326     time: 21492
+train_loss: tensor(0.0189, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 327     time: 21560
+train_loss: tensor(0.0190, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 328     time: 21626
+train_loss: tensor(0.0189, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 329     time: 21691
+train_loss: tensor(0.0189, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 330     time: 21758
+train_loss: tensor(0.0190, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 331     time: 21851
+train_loss: tensor(0.0189, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 332     time: 21971
+train_loss: tensor(0.0190, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 333     time: 22074
+train_loss: tensor(0.0190, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 334     time: 22141
+train_loss: tensor(0.0189, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 335     time: 22204
+train_loss: tensor(0.0190, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 336     time: 22266
+train_loss: tensor(0.0190, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 337     time: 22327
+train_loss: tensor(0.0189, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 338     time: 22389
+train_loss: tensor(0.0189, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 339     time: 22450
+train_loss: tensor(0.0188, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 340     time: 22514
+train_loss: tensor(0.0188, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 341     time: 22577
+train_loss: tensor(0.0189, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 342     time: 22639
+train_loss: tensor(0.0189, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 343     time: 22701
+train_loss: tensor(0.0189, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 344     time: 22763
+train_loss: tensor(0.0189, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 345     time: 22827
+train_loss: tensor(0.0189, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 346     time: 22889
+train_loss: tensor(0.0188, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 347     time: 22951
+train_loss: tensor(0.0188, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 348     time: 23018
+train_loss: tensor(0.0188, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 349     time: 23081
+train_loss: tensor(0.0188, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 350     time: 23144
+train_loss: tensor(0.0188, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 351     time: 23206
+train_loss: tensor(0.0188, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 352     time: 23268
+train_loss: tensor(0.0189, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 353     time: 23331
+train_loss: tensor(0.0188, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 354     time: 23394
+train_loss: tensor(0.0189, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 355     time: 23456
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 356     time: 23522
+train_loss: tensor(0.0188, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 357     time: 23589
+train_loss: tensor(0.0188, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 358     time: 23651
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 359     time: 23717
+train_loss: tensor(0.0189, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 360     time: 23797
+train_loss: tensor(0.0188, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 361     time: 23872
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 362     time: 23955
+train_loss: tensor(0.0188, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 363     time: 24064
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 364     time: 24126
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 365     time: 24187
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 366     time: 24251
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 367     time: 24313
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 368     time: 24377
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 369     time: 24442
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 370     time: 24505
+train_loss: tensor(0.0188, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 371     time: 24568
+train_loss: tensor(0.0188, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 372     time: 24631
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 373     time: 24697
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 374     time: 24761
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 375     time: 24824
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 376     time: 24887
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 377     time: 24950
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 378     time: 25013
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 379     time: 25076
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 380     time: 25138
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 381     time: 25201
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 382     time: 25263
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 383     time: 25327
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 384     time: 25391
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 385     time: 25455
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 386     time: 25521
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 387     time: 25621
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 388     time: 25697
+train_loss: tensor(0.0187, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 389     time: 25784
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 390     time: 25847
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 391     time: 25911
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 392     time: 25973
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 393     time: 26035
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 394     time: 26097
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 395     time: 26159
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 396     time: 26221
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 397     time: 26283
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 398     time: 26347
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 399     time: 26410
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 400     time: 26475
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 401     time: 26539
+train_loss: tensor(0.0185, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 402     time: 26604
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 403     time: 26667
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 404     time: 26732
+train_loss: tensor(0.0185, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 405     time: 26796
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 406     time: 26859
+train_loss: tensor(0.0185, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 407     time: 26922
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 408     time: 26985
+train_loss: tensor(0.0185, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 409     time: 27049
+train_loss: tensor(0.0185, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 410     time: 27111
+train_loss: tensor(0.0185, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 411     time: 27174
+train_loss: tensor(0.0185, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 412     time: 27238
+train_loss: tensor(0.0185, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 413     time: 27302
+train_loss: tensor(0.0185, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 414     time: 27367
+train_loss: tensor(0.0186, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 415     time: 27430
+train_loss: tensor(0.0185, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 416     time: 27494
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 417     time: 27558
+train_loss: tensor(0.0185, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 418     time: 27626
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 419     time: 27702
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 420     time: 27763
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 421     time: 27826
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 422     time: 27888
+train_loss: tensor(0.0185, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 423     time: 27951
+train_loss: tensor(0.0185, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 424     time: 28014
+train_loss: tensor(0.0188, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 425     time: 28076
+train_loss: tensor(0.0185, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 426     time: 28138
+train_loss: tensor(0.0185, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 427     time: 28208
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 428     time: 28272
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 429     time: 28334
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 430     time: 28396
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 431     time: 28459
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 432     time: 28523
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 433     time: 28588
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 434     time: 28651
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 435     time: 28714
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 436     time: 28778
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 437     time: 28845
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 438     time: 28913
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 439     time: 28981
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 440     time: 29046
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 441     time: 29109
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 442     time: 29175
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 443     time: 29238
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 444     time: 29301
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 445     time: 29364
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 446     time: 29428
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 447     time: 29509
+train_loss: tensor(0.0189, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 448     time: 29579
+train_loss: tensor(0.0185, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 449     time: 29679
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 450     time: 29764
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 451     time: 29831
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 452     time: 29898
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 453     time: 29963
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 454     time: 30024
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 455     time: 30088
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 456     time: 30151
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 457     time: 30214
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 458     time: 30280
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 459     time: 30344
+train_loss: tensor(0.0182, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 460     time: 30408
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 461     time: 30471
+train_loss: tensor(0.0182, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 462     time: 30535
+train_loss: tensor(0.0184, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 463     time: 30597
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 464     time: 30659
+train_loss: tensor(0.0182, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 465     time: 30722
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 466     time: 30784
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 467     time: 30846
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 468     time: 30908
+train_loss: tensor(0.0182, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 469     time: 30979
+train_loss: tensor(0.0182, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 470     time: 31044
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 471     time: 31107
+train_loss: tensor(0.0182, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 472     time: 31173
+train_loss: tensor(0.0182, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 473     time: 31236
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 474     time: 31305
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 475     time: 31380
+train_loss: tensor(0.0182, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 476     time: 31446
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 477     time: 31517
+train_loss: tensor(0.0182, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 478     time: 31602
+train_loss: tensor(0.0182, device='cuda:0')
+SHAPE: (256, 256)
+********
+epoch: 479     time: 31665
+train_loss: tensor(0.0182, device='cuda:0')
+SHAPE: (256, 256)
+update learning rate: 0.000040 -> 0.000008
+********
+epoch: 480     time: 31730
+train_loss: tensor(0.0182, device='cuda:0')
+SHAPE: (256, 256)
+update learning rate: 0.000008 -> 0.000002
+********
+epoch: 481     time: 31793
+train_loss: tensor(0.0183, device='cuda:0')
+SHAPE: (256, 256)
+update learning rate: 0.000002 -> 0.000000
+********
+epoch: 482     time: 31857
+train_loss: tensor(0.0182, device='cuda:0')
+SHAPE: (256, 256)
+update learning rate: 0.000000 -> 0.000000
+********
+epoch: 483     time: 31923
+train_loss: tensor(0.0182, device='cuda:0')
+SHAPE: (256, 256)
+Finish!
