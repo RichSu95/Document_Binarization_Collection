@@ -21,4 +21,14 @@ $ pip install -r requirements.txt
 
 #### Robin
 
-**robin** consists of two main files: `src/unet/train.py`, which generates weights for U-net model from input 128x128 pairs of original and ground-truth images, and `src/unet/binarize.py` for binarization group of input document images. 
+**robin** consists of two main files: `src/unet/train.py`, which generates weights for U-net model from input 128x128 pairs of original and ground-truth images, and `src/unet/binarize.py` for binarization group of input document images.
+
+
+##Citation
+```
+@misc{robin,
+  title = {Robust Document Image Binarization},
+  author = {Mikhail Masyagin},
+  note = {Available at: \url{https://github.com/masyagin1998/robin}}
+}
+``` 

@@ -42,15 +42,19 @@ LineCounter is written in TensorFlow.
  Not tested with other versions
 
 
-Alternatively, one may find the inference code using this [google colab link](https://colab.research.google.com/drive/1aGYXVRuTf1dhoKSsOCPcB4vKULtplFSA?usp=sharing).
+Alternatively, one may find the inference code bz the author using this [google colab link](https://colab.research.google.com/drive/1aGYXVRuTf1dhoKSsOCPcB4vKULtplFSA?usp=sharing).
 
+##Citation
+```
+@INPROCEEDINGS{9506664,  
+  author={Li, Deng and Wu, Yue and Zhou, Yicong},  
+  booktitle={The 16th International Conference on Document Analysis and Recognition (ICDAR)},   
+  title={SauvolaNet: Learning Adaptive Sauvola Network for Degraded Document Binarization},   
+  year={2021},  
+  volume={},  
+  number={},  
+  pages={538–553},  
+  doi={https://doi.org/10.1007/978-3-030-86337-1_36}}
+```
 
-| DIBCO 2009   | http://users.iit.demokritos.gr/~bgat/DIBCO2009/benchmark/   |
-| DIBCO 2010   | http://users.iit.demokritos.gr/~bgat/H-DIBCO2010/benchmark/ |
-| DIBCO 2011   | http://utopia.duth.gr/~ipratika/DIBCO2011/benchmark/        |
-| DIBCO 2012   | http://utopia.duth.gr/~ipratika/HDIBCO2012/benchmark/       |
-| DIBCO 2013   | http://utopia.duth.gr/~ipratika/DIBCO2013/benchmark/        |
-| DIBCO 2014   | http://users.iit.demokritos.gr/~bgat/HDIBCO2014/benchmark/  |
-| DIBCO 2016   | http://vc.ee.duth.gr/h-dibco2016/benchmark/                 |
-| DIBCO 2017   | https://vc.ee.duth.gr/dibco2017/                 |
-| DIBCO 2018   | https://vc.ee.duth.gr/h-dibco2018/                 |
+The custom training code was provided by @mohamadmansourX. For more information, see [link](https://github.com/mohamadmansourX/SauvolaNet-Training).

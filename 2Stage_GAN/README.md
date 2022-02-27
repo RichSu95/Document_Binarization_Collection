@@ -36,3 +36,22 @@ python eval_step2_all.py
 
 - You can download trained weights from the original authors via Dropbox. The link of the files as follows.
 - [Link](https://www.dropbox.com/sh/vm9mvtsaek9620s/AAAtztL7a_Z-h6J4spd-Cpbua?dl=0)
+
+
+##Citation
+```
+@article{DBLP:journals/corr/abs-2010-10103,
+  author    = {Sungho Suh and Jihun Kim and mPaul Lukowicz and Yong Oh Lee},
+  title     = {Two-Stage Generative Adversarial Networks for Document Image Binarization
+               with Color Noise and Background Removal},
+  journal   = {CoRR},
+  volume    = {abs/2010.10103},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2010.10103},
+  eprinttype = {arXiv},
+  eprint    = {2010.10103},
+  timestamp = {Mon, 26 Oct 2020 15:39:44 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2010-10103.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```

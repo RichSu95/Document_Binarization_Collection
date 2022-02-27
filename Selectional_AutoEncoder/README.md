@@ -75,18 +75,16 @@ $ python -u train.py -path datasets -db dibco -dbp 6 --aug -w 256 -s 128 -f 64 -
 ```
 Once the script finishes, it will save the learned weights and the binarized images resulting from the validation partition in a folder with the prefix `_PR-` followed by the name of the model.
 
-
-## Datasets
-
-Below is a summary table of the datasets used in this work along with a link from which they can be downloaded:
-
-
-| Dataset      | Acronym | URL     |
-| ------------ | ------- | ------- |
-| DIBCO 2009   | DB09    | http://users.iit.demokritos.gr/~bgat/DIBCO2009/benchmark/   |
-| DIBCO 2010   | DB10    | http://users.iit.demokritos.gr/~bgat/H-DIBCO2010/benchmark/ |
-| DIBCO 2011   | DB11    | http://utopia.duth.gr/~ipratika/DIBCO2011/benchmark/        |
-| DIBCO 2012   | DB12    | http://utopia.duth.gr/~ipratika/HDIBCO2012/benchmark/       |
-| DIBCO 2013   | DB13    | http://utopia.duth.gr/~ipratika/DIBCO2013/benchmark/        |
-| DIBCO 2014   | DB14    | http://users.iit.demokritos.gr/~bgat/HDIBCO2014/benchmark/  |
-| DIBCO 2016   | DB16    | http://vc.ee.duth.gr/h-dibco2016/benchmark/                 |
+##Citation
+```
+@article{Gallego2019,
+title = "A selectional auto-encoder approach for document image binarization",
+author = "Jorge Calvo-Zaragoza and Antonio-Javier Gallego",
+journal = "Pattern Recognition",
+volume = "86",
+pages = "37 - 47",
+year = "2019",
+issn = "0031-3203",
+doi = "https://doi.org/10.1016/j.patcog.2018.08.011"
+}
+```
