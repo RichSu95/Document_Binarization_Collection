@@ -75,7 +75,7 @@ $ python -u train.py -path datasets -db dibco -dbp 6 --aug -w 256 -s 128 -f 64 -
 ```
 Once the script finishes, it will save the learned weights and the binarized images resulting from the validation partition in a folder with the prefix `_PR-` followed by the name of the model.
 
-##Citation
+## Citation
 ```
 @article{Gallego2019,
 title = "A selectional auto-encoder approach for document image binarization",

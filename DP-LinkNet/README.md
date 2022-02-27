@@ -29,7 +29,7 @@ Alternative:
 Download pre-trained LinkNet34, D-LinkNet34, and DP-LinkNet34 models provided by the authors
 [Google Drive] Link: https://drive.google.com/file/d/1A3QeiPwjQM2wUwMwyyWSgT9mzsEx4Q-T/view?usp=sharing
 
-##Citation
+## Citation
 ```
 @article{tiis:24643, 
 title="DP-LinkNet: A convolutional network for historical document image binarization", 

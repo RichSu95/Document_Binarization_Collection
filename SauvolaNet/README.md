@@ -44,7 +44,7 @@ LineCounter is written in TensorFlow.
 
 Alternatively, one may find the inference code bz the author using this [google colab link](https://colab.research.google.com/drive/1aGYXVRuTf1dhoKSsOCPcB4vKULtplFSA?usp=sharing).
 
-##Citation
+## Citation
 ```
 @INPROCEEDINGS{9506664,  
   author={Li, Deng and Wu, Yue and Zhou, Yicong},  

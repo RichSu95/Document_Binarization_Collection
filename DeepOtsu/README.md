@@ -16,7 +16,7 @@ Install requirements.txt file
 python binTestImprovedFusion.py --dataset directory_or_image/ --imgtype png --overlap 0.1 --multiscale True --num_block 6
 ```
 
-##Citation
+## Citation
 ```
 @article{deepotsu,
    title={DeepOtsu: Document enhancement and binarization using iterative deep learning},

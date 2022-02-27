@@ -24,7 +24,7 @@ $ pip install -r requirements.txt
 **robin** consists of two main files: `src/unet/train.py`, which generates weights for U-net model from input 128x128 pairs of original and ground-truth images, and `src/unet/binarize.py` for binarization group of input document images.
 
 
-##Citation
+## Citation
 ```
 @misc{robin,
   title = {Robust Document Image Binarization},
