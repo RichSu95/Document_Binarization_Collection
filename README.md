@@ -16,7 +16,7 @@ This repository is a concise collection of well known deep learning based docume
 Each project folder contains instructions regarding how to run the model as well as a requirements.txt file to create the python environment. 
 
 ### Model Weights
-The model weights can be downloaded via: https://faubox.rrze.uni-erlangen.de/getlink/fi8wrX9bLvSG8gM1WADwDMxb/
+The model weights can be downloaded via: https://www.dropbox.com/s/vrlcbdhfbvn82pi/model_weights.zip?dl=0
 
 The models were trained on the DIBCO2009, DIBCO2010, DIBCO2011, DIBCO2012, DIBCO2014 and DIBCO2016 datasets.
 
